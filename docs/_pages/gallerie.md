@@ -1,5 +1,5 @@
 ---
-title: "Gallerie"
+title: "Galerie"
 layout: gallery
-permalink: /gallerie/
+permalink: /galerie/
 ---
