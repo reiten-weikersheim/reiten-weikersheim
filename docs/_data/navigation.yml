@@ -1,3 +1,7 @@
 main:
+  - title: "Über uns"
+    url: /ueber-uns/
+  - title: "Pferdepension"
+    url: /pferdepension/
   - title: "Kontakt"
     url: /kontakt/
