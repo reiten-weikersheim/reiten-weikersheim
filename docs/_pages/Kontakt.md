@@ -3,13 +3,14 @@ title: "Kontakt"
 layout: single
 permalink: /kontakt/
 sidebar:
-  image: ../assets/pferd.jpg
+  - title: ""
+    image: ../assets/pferd.jpg
 ---
 
-Reit- und Pensionsstall Wolf \n\n
-Taubermühle 1 \n\n
+Reit- und Pensionsstall Wolf  
+Taubermühle 1  
 97990 Weikersheim
 
 reiten-weikersheim@outlook.de
 
-0123 456789
+07934 7769
