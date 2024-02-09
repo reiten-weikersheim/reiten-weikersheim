@@ -1,6 +1,5 @@
 ---
 title: "Reit- und Pensionsstall Wolf"
-subtitle: "Philosophie"
 permalink: /philosophie/
 layout: splash
 classes: wide
@@ -8,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ../assets/reiterhof.jpg
+excerpt: "Philosophie"
 gallery:
   - image_path: ../assets/philosophie/wendy.jpeg
     alt: "Wendy"
