@@ -1,9 +1,11 @@
 main:
   - title: "Philosophie"
     url: /philosophie/
+  - title: "Reitanlage"
+    url: /reitanlage/
   - title: "Pferdepension"
     url: /pferdepension/
-  - title: "Reitunterricht und Beritt"
+  - title: "Unterricht & Beritt"
     url: /reitunterricht_beritt/
   - title: "Ferienwohnung"
     url: /ferienwohnung/
