@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: ../assets/banner.PNG
 excerpt: "Pferdepension"
+excerpt_separator: <!--more-->
 ---
 
 # Pferdepension
