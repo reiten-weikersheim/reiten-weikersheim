@@ -6,11 +6,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../assets/reiterhof.jpg
+  overlay_image: ../assets/banner.jpg
 excerpt: "Pferdepension"
-gallery:
-  - image_path: ../assets/philosophie/wendy.jpeg
-    alt: "Wendy"
 ---
 
 # Pferdepension
