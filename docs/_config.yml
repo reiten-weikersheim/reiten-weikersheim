@@ -27,7 +27,7 @@ url: https://reiten-weikersheim.github.io # the base hostname & protocol for you
 
 # Build settings
 # theme: minima
-remote_theme: "mmistakes/minimal-mistakes@3.9.3"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
