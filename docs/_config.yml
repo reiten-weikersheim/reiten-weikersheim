@@ -40,8 +40,8 @@ defaults:
   - scope:
       path: ""
       type: pages
-    values:
-      layout: single
+#    values:
+#      layout: single
 
 # Exclude from processing.
 # The following items will not be processed, by default.
