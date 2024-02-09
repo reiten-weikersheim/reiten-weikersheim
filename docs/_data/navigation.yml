@@ -5,7 +5,7 @@ main:
     url: /philosophie/
   - title: "Pferdepension"
     url: /pferdepension/
-  - tile: "Reitunterricht und Beritt"
+  - title: "Reitunterricht und Beritt"
     url: /reitunterricht_beritt/
   - title: "Ferienwohnung"
     url: /ferienwohnung/
