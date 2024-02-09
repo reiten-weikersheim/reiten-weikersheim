@@ -6,15 +6,15 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../assets/reiterhof.jpg
+  overlay_image: ../assets/banner.png
 excerpt: "Philosophie"
 gallery:
-  - image_path: ../assets/philosophie/wendy.jpeg
-    alt: "Wendy"
-  - image_path: ../assets/philosophie/springpferd.jpeg
-    alt: "Springpferd"
-  - image_path: ../assets/philosophie/dressurpferd.jpeg
-    alt: "Dressurpferd"
+  - image_path: ../assets/horse.png
+    alt: "Pferd"
+  - image_path: ../assets/horse.png
+    alt: "Pferd"
+  - image_path: ../assets/horse.png
+    alt: "Pferd"
 ---
 
 Wir lieben Pferde. Wir reiten klassische Dressur und sind ganz ganz lieb zu unseren Pferdis. Sie bekommen jeden Tag was zu essen und manchmal sogar ein Leckerli. Obwohl wir natürlich ein Lieblingspferd haben (Hathy for life!) behandeln wir alle Pferde gleich gut.
