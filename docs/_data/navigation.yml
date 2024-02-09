@@ -1,7 +1,15 @@
 main:
   - title: "Über uns"
     url: /ueber-uns/
+  - title: "Philosophie"
+    url: /philosophie/
   - title: "Pferdepension"
     url: /pferdepension/
+  - tile: "Reitunterricht & Beritt"
+    url: /reitunterricht_beritt/
+  - title: "Ferienwohnung"
+    url: /ferienwohnung/
+  - title: "Gallerie"
+    url: /gallerie/
   - title: "Kontakt"
     url: /kontakt/
