@@ -1,6 +1,4 @@
 main:
-  - title: "Über uns"
-    url: /ueber-uns/
   - title: "Philosophie"
     url: /philosophie/
   - title: "Pferdepension"
