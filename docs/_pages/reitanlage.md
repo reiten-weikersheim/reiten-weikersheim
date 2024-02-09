@@ -5,40 +5,51 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../assets/reiterhof.jpg
+  overlay_image: ../assets/banner.PNG
 excerpt: "Reitanlage"
-gallery:
-  - image_path: ../assets/philosophie/wendy.jpeg
-    alt: "Wendy"
 toc: true
 toc_label: "Reitanlage"
 ---
+
+<img style="float: right;" src="../assets/house.PNG">
 
 # Halle
 
 Die lichtdurchflutete Reithalle mit den Maßen 20x40 verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten.
 
+<img style="float: left;" src="../assets/house.PNG">
+
 # Außenreitplatz
 
 Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20x40. Der Platz ist mit einer sichern Holzbande umzäunt.
+
+<img style="float: right;" src="../assets/house.PNG">
 
 # Round Pen
 
 Nutzen Sie den Round Pen nicht nur zum longieren, sondern auch für die Freiarbeit mit Ihrem Pferd.
 
+<img style="float: left;" src="../assets/house.PNG">
+
 # Einrittstelle in die Tauber
 
 Von unserer Anlage haben sie direkten Zugang zur Tauber, wo sie mit ihrem Pferd hineinreiten und das Wasser genießen können.
 
+<img style="float: right;" src="../assets/house.PNG">
+
 # Weiden
 
 Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläufigen, gepflegten Weiden. Der alte Baumbestand sorgt für ausreichend Schatten. Täglich wird frisches Wasser auf die Weiden gebracht.
+
+<img style="float: left;" src="../assets/house.PNG">
 
 # Boxenstall
 
 Der Stall bietet große freundliche Boxen mit Außenfenster oder mit offenem Blick auf die Stallgasse. Der Boxenstall hat einen direkten Zugang zur Reithalle. Die Boxen sind mit Späne eingestreut, sodass diese auch für Allergiker gut geeignet sind.
 
 Alle unsere Pferde stehen ganztägig in Gruppenhaltung auf den Paddocks/Weiden. Ihr Pferd kann wahlweise nachts in der Box oder 24 Stunden, 7 Tage die Woche im Offenstall stehen.
+
+<img style="float: right;" src="../assets/house.PNG">
 
 # Offenstall
 
