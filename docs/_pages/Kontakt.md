@@ -2,8 +2,9 @@
 title: "Kontakt"
 permalink: /kontakt/
 sidebar:
-  - title: ""
-    image: ../assets/pferd.jpg
+  - title: "Anja Wolf"
+    image: ../assets/anja_wolf.jpg
+    
 ---
 
 Reit- und Pensionsstall Wolf  Taubermühle 1  97990 Weikersheim
