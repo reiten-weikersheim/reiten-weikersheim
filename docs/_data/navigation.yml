@@ -5,11 +5,11 @@ main:
     url: /philosophie/
   - title: "Pferdepension"
     url: /pferdepension/
-  - tile: "Reitunterricht & Beritt"
+  - tile: "Reitunterricht und Beritt"
     url: /reitunterricht_beritt/
   - title: "Ferienwohnung"
     url: /ferienwohnung/
-  - title: "Gallerie"
-    url: /gallerie/
+  - title: "Galerie"
+    url: /galerie/
   - title: "Kontakt"
     url: /kontakt/
