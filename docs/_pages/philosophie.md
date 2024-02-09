@@ -8,8 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: ../assets/reiterhof.jpg
 gallery:
-  - url: /philosophie/_MG_2502.jpg
-    image_path: ../assets/philosophie/MG_2502.jpg
+  - image_path: ../assets/philosophie/MG_2502.JPG
     alt: "Testbild 1"
   - url: /philosophie/_MG_2936.jpg
     image_path: ../assets/philosophie/MG_2936.jpg
