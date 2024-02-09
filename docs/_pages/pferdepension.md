@@ -8,10 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: ../assets/banner.PNG
 excerpt: "Pferdepension"
-excerpt_separator: <!--more-->
 ---
-
-# Pferdepension
 
 Artgerechte Haltung ist für uns das Wichtigste. Deshalb stehen unsere Pferde ausschließlich in Herdenhaltung. Nur so können sie ihre Sozialkontakte ausleben. So gehaltene Pferde sind ausgeglichen und zufrieden. Die Pferde leben ganztätig im Offenstall. Im Sommer stehen unsere Pferde auf gepflegten und weitläufigen Weiden mit altem Baumbestand direkt an der Tauber. Die Gruppen werden je nach Temperament und individuellen Bedürfnissen der Pferde zusammengestellt. In jeder Gruppe leben bis zu 10 Pferde zusammen.
 
