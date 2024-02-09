@@ -20,6 +20,6 @@ Wir lieben Pferde. Wir reiten klassische Dressur und sind ganz ganz lieb zu unse
 
 Unsere Pferde dürfen tagsüber draußen auf der Wiese grasen, denn frische Luft ist gesund! Sie fressen auch Gras, wenn sie draußen stehen und auch das finden wir wichtig und richtig. Im Winter dürfen Sie ihr Pferd auch zudecken - es ist zwar unnötig, aber wir gestatten es wohl.
 
-{% include gallery class="full" %}
+{% include gallery %}
 
 
