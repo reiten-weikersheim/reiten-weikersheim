@@ -15,15 +15,9 @@ gallery:
 
 # Pferdepension
 
-Artgerechte Haltung ist für uns das Wichtigste. Deshalb stehen unsere Pferde ausschließlich in Herdenhaltung. Nur so können sie ihre Sozialkontakte ausleben. So gehaltene Pferde sind ausgeglichen und zufrieden.
+Artgerechte Haltung ist für uns das Wichtigste. Deshalb stehen unsere Pferde ausschließlich in Herdenhaltung. Nur so können sie ihre Sozialkontakte ausleben. So gehaltene Pferde sind ausgeglichen und zufrieden. Die Pferde leben ganztätig im Offenstall. Im Sommer stehen unsere Pferde auf gepflegten und weitläufigen Weiden mit altem Baumbestand direkt an der Tauber. Die Gruppen werden je nach Temperament und individuellen Bedürfnissen der Pferde zusammengestellt. In jeder Gruppe leben bis zu 10 Pferde zusammen.
 
-Die Pferde leben ganztätig im Offenstall. Im Sommer stehen unsere Pferde auf gepflegten und weitläufigen Weiden mit altem Baumbestand direkt an der Tauber.
-
-Die Gruppen werden je nach Temperament und individuellen Bedürfnissen der Pferde zusammengestellt. In jeder Gruppe leben bis zu 10 Pferde zusammen.
-
-Unsere Offenställe bieten reichlich Auslauf und großzügige Unterstehmöglichkeiten. Sie sind alle mit Bodenplatten befestigt und mit Sand belegt, sodass keine Matschkoppeln entstehen können. Beheizte Selbsttränken sorgen auch im Winter für frisches Wasser.
-
-Unser Stall verfügt außerdem über große freundliche Boxen mit Außenfenster oder mit offenem Blick auf die Stallgasse. Falls Sie für Ihr Pferd nachts eine Box wünschen, steht Ihnen diese selbstverständlich zur Verfügung. Die Boxen werden mit Spänen eingestreut, sodass diese auch für Allergiker gut geeignet sind. So stellen wir sicher, dass auf die individuellen Bedürfnisse Ihres Pferdes eingegangen wird.
+Unsere Offenställe bieten reichlich Auslauf und großzügige Unterstehmöglichkeiten. Sie sind alle mit Bodenplatten befestigt und mit Sand belegt, sodass keine Matschkoppeln entstehen können. Beheizte Selbsttränken sorgen auch im Winter für frisches Wasser. Unser Stall verfügt außerdem über große freundliche Boxen mit Außenfenster oder mit offenem Blick auf die Stallgasse. Falls Sie für Ihr Pferd nachts eine Box wünschen, steht Ihnen diese selbstverständlich zur Verfügung. Die Boxen werden mit Spänen eingestreut, sodass diese auch für Allergiker gut geeignet sind. So stellen wir sicher, dass auf die individuellen Bedürfnisse Ihres Pferdes eingegangen wird.
 
 Reichlich Futter in bester Qualität ist die Grundlage für gesunde Pferde. Deshalb füttern wir ausschließlich strukturreiches, bestes Heu von ausgewählten Bauern. Die Pferde werden 24 Stunden mit Heu versorgt. Auf Wunsch kann Kraftfutter in individuell passender Menge zugefüttert werden.
 
