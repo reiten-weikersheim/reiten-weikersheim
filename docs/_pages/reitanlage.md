@@ -2,14 +2,13 @@
 title: "Reit- und Pensionsstall Wolf"
 permalink: /reitanlage/
 layout: splash
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ../assets/banner.png
-excerpt: "Reitanlage"
-toc: true
-toc_label: "Reitanlage"
 ---
+
 <p>
   <img style="float: right;" src="../assets/house.png" width="400" height="300">
 </p>
