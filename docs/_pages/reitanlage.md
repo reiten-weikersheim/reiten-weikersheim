@@ -26,7 +26,7 @@ Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20x40. Der
 
 <p>
   <br>
-  <img style="float: left;" src="../assets/house.png" width="400" height="300">
+  <img style="float: right;" src="../assets/house.png" width="400" height="300">
 </p>
 
 # Round Pen
@@ -44,7 +44,7 @@ Von unserer Anlage haben sie direkten Zugang zur Tauber, wo sie mit ihrem Pferd 
 
 <p>
   <br>
-  <img style="float: left;" src="../assets/house.png" width="400" height="300">
+  <img style="float: right;" src="../assets/house.png" width="400" height="300">
 </p>
 
 # Weiden
@@ -64,7 +64,7 @@ Alle unsere Pferde stehen ganztägig in Gruppenhaltung auf den Paddocks/Weiden. 
 
 <p>
   <br>
-  <img style="float: left;" src="../assets/house.png" width="400" height="300">
+  <img style="float: right;" src="../assets/house.png" width="400" height="300">
 </p>
 
 # Offenstall
