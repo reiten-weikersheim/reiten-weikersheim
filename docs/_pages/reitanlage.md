@@ -9,7 +9,7 @@ header:
   overlay_image: ../assets/banner.png
 ---
 
-<p>
+<section>
   
 # Halle
 
@@ -17,9 +17,9 @@ Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über eine
 
 <img style="float: right; padding: 0px 0px 0px 50px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
-<p>
+<section>
   
 # Außenreitplatz
 
@@ -27,9 +27,9 @@ Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20x40. Der
 
 <img style="float: left; padding: 0px 50px 0px 0px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
-<p>
+<section>
 
 # Round Pen
 
@@ -37,9 +37,9 @@ Nutzen Sie den Round Pen nicht nur zum longieren, sondern auch für die Freiarbe
 
 <img style="float: right; padding: 0px 0px 0px 50px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
-<p>
+<section>
 
 # Einrittstelle in die Tauber
 
@@ -47,9 +47,9 @@ Von unserer Anlage haben sie direkten Zugang zur Tauber, wo sie mit ihrem Pferd 
 
 <img style="float: left; padding: 0px 50px 0px 0px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
-<p>
+<section>
 
 # Weiden
 
@@ -57,9 +57,9 @@ Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläuf
 
 <img style="float: right; padding: 0px 0px 0px 50px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
-<p>
+<section>
 
 # Boxenstall
 
@@ -69,9 +69,9 @@ Alle unsere Pferde stehen ganztägig in Gruppenhaltung auf den Paddocks/Weiden. 
 
 <img style="float: left; padding: 0px 50px 0px 0px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
-<p>
+<section>
 
 # Offenstall
 
@@ -79,9 +79,9 @@ Unsere Offenställe mit beheizter Selbsttränke und großzügigen Unterstehmögl
 
 <img style="float: right; padding: 0px 0px 0px 50px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
-<p>
+<section>
 
 # Ausreitgelände
 
@@ -89,7 +89,7 @@ Das wunderschöne Außreitgelände schließt sich direkt an unseren Stall an. Er
 
 <img style="float: left; padding: 0px 50px 0px 0px" src="../assets/house.png" width="400" height="300">
 
-</p>
+</section>
 
 
 
