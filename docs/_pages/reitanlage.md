@@ -9,6 +9,16 @@ header:
   overlay_image: ../assets/banner.png
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+|   |   |
+|---|---|
+|<img src="../assets/house.png" width="800" height="150"> | Die lichtdurchflutete Reithalle mit den Maßen 20x40 verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten. |
+
 <img style="float: right;" src="../assets/house.png" width="400" height="300">
 
 # Halle
