@@ -9,9 +9,9 @@ header:
   overlay_image: ../assets/banner.png
 ---
 
-{% include image_beside_text.html image_path="../assets/house.png" image_style="float: left; margin-right 1em;" image_width="400" image_height="300" title="Halle" description="Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten." %}
+{% include image_beside_text.html image_path="../assets/house.png" image_style="float: left; margin-right 10em;" image_width="400" image_height="300" title="Halle" description="Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten." %}
 
-
+{% include image_beside_text.html image_path="../assets/house.png" image_style="float: left; margin-right 10em;" image_width="400" image_height="300" title="Halle" description="Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten." %}
 
 
 <section>
