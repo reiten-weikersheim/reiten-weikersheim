@@ -7,7 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ../assets/banner.png
-excerpt: "Philosophie"
 gallery:
   - image_path: ../assets/horse.png
     alt: "Pferd"
