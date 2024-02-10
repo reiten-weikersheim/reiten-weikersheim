@@ -18,8 +18,10 @@ Die lichtdurchflutete Reithalle mit den Maßen 20x40 verfügt über einen elasti
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<img style="float: left;" src="../assets/house.png" width="400" height="300">
+<img style="float: left; padding: 0x 20px 0px 0px" src="../assets/house.png" width="400" height="300">
 
 # Außenreitplatz
 
@@ -28,8 +30,10 @@ Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20x40. Der
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<img style="float: right;" src="../assets/house.png" width="400" height="300">
+<img style="float: right; padding: 0x 0px 0px 20px" src="../assets/house.png" width="400" height="300">
 
 # Round Pen
 
@@ -38,8 +42,10 @@ Nutzen Sie den Round Pen nicht nur zum longieren, sondern auch für die Freiarbe
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<img style="float: left;" src="../assets/house.png" width="400" height="300">
+<img style="float: left; padding: 0x 20px 0px 0px" src="../assets/house.png" width="400" height="300">
 
 # Einrittstelle in die Tauber
 
@@ -48,8 +54,10 @@ Von unserer Anlage haben sie direkten Zugang zur Tauber, wo sie mit ihrem Pferd 
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<img style="float: right;" src="../assets/house.png" width="400" height="300">
+<img style="float: right; padding: 0x 0px 0px 20px" src="../assets/house.png" width="400" height="300">
 
 # Weiden
 
@@ -58,8 +66,10 @@ Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläuf
 <br>
 <br>
 <br>
+<br>
+<br>
 
-<img style="float: left;" src="../assets/house.png" width="400" height="300">
+<img style="float: left; padding: 0x 20px 0px 0px" src="../assets/house.png" width="400" height="300">
 
 # Boxenstall
 
@@ -67,15 +77,16 @@ Der Stall bietet große freundliche Boxen mit Außenfenster oder mit offenem Bli
 
 Alle unsere Pferde stehen ganztägig in Gruppenhaltung auf den Paddocks/Weiden. Ihr Pferd kann wahlweise nachts in der Box oder 24 Stunden, 7 Tage die Woche im Offenstall stehen.
 
-<img style="float: right;" src="../assets/house.png" width="400" height="300">
+<img style="float: right; padding: 0x 0px 0px 20px" src="../assets/house.png" width="400" height="300">
 
 # Offenstall
 
 Unsere Offenställe mit beheizter Selbsttränke und großzügigen Unterstehmöglichkeiten bieten reichlich Auslauf. Die Paddocks sind alle mit Bodenplatten belegt, sodass keine Matschkoppeln entstehen können. Alle unsere Pferde stehen ganztägig in Gruppenhaltung im Offenstall oder auf den Weiden. Ihr Pferd kann wahlweise 24/7 im Offenstall oder nachts in einer Box in stehen.
 
 <br>
+<br>
 
-<img style="float: left;" src="../assets/house.png" width="400" height="300">
+<img style="float: left; padding: 0x 20px 0px 0px" src="../assets/house.png" width="400" height="300">
 
 # Ausreitgelände
 
