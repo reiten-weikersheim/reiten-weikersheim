@@ -10,7 +10,7 @@ header:
 gallery:
   - image_path: ../assets/Ella 6388B.jpg
     alt: "Pferd"
-  - image_path: ../assets/horse.png
+  - image_path: ../assets/Elektra B.jpg
     alt: "Pferd"
   - image_path: ../assets/horse.png
     alt: "Pferd"
