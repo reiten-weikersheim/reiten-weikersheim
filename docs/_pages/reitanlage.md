@@ -9,7 +9,7 @@ header:
   overlay_image: ../assets/banner.png
 ---
 
-{% include image_beside_text.html image_path="../assets/house.png" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Halle" description="Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten." %}
+{% include image_beside_text.html image_path="../assets/Halle.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Halle" description="Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten." %}
 
 {% include image_beside_text.html image_path="../assets/Außenplatz.jpeg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Außenreitplatz" description="Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20 x 40 Meter. Der Platz ist mit einer sichern Holzbande umzäunt." %}
 
