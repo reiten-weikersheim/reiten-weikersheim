@@ -1,6 +1,6 @@
 ---
 title: "Reit- und Pensionsstall Wolf"
-permalink: /reitunterricht/
+permalink: /reitunterricht_beritt/
 layout: splash
 classes: wide
 header:
