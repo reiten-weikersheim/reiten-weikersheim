@@ -16,9 +16,10 @@ gallery:
     alt: "Pferd"
 ---
 
-Wir lieben Pferde. Wir reiten klassische Dressur und sind ganz ganz lieb zu unseren Pferdis. Sie bekommen jeden Tag was zu essen und manchmal sogar ein Leckerli. Obwohl wir natürlich ein Lieblingspferd haben (Hathy for life!) behandeln wir alle Pferde gleich gut.
-
-Unsere Pferde dürfen tagsüber draußen auf der Wiese grasen, denn frische Luft ist gesund! Sie fressen auch Gras, wenn sie draußen stehen und auch das finden wir wichtig und richtig. Im Winter dürfen Sie ihr Pferd auch zudecken - es ist zwar unnötig, aber wir gestatten es wohl.
+Seit über 25 Jahren bin ich als Bereiterin und Reitlehrerin tätig. Dabei verfolge ich eine klare Philosophie, die die auf den Prinzipien der klassisch-barocken Reitweise basiert.
+Bei mir steht das Wohl der Pferde stets an erster Stelle. Ich glaube fest daran, dass ein fairer und respektvoller Umgang die Grundlage für eine harmonische Beziehung zwischen Mensch und Pferd bildet. Bei der Ausbildung von Pferd und Reiter lege ich größten Wert darauf, stets mit feiner Hand zu arbeiten und individuell an den Ausbildungsstand von Pferd und Reiter anzuknüpfen. Achtung und Respekt dem Pferd gegenüber sind dabei höchstes Gebot. Nur so sind die Pferde mit Freude bei der Arbeit und fühlen sich wohl. Sie präsentieren sich mit Stolz und in lässiger Eleganz. Dabei ist meine Arbeit von Vielseitigkeit und Abwechslung geprägt. Neben klassischer Dressur, betreibe ich stets gymnastizierende Boden- und Handarbeit und reite und bilde die Pferde im Gelände weiter aus. Zudem biete ich Reitunterricht und Beritt im Westernreiten an. In beiden Stilrichtungen lege ich höchsten Wert auf eine feine und leichte Hand.
+Mir ist es ein Anliegen, eine Atmosphäre zu schaffen, in der sich Pferd und Reiter gleichermaßen wohl fühlen und ihr volles Potenzial entfalten können. Ich möchte meinen Schülern eine solide Grundlage für ein faires und harmonisches Reiten vermitteln, das frei von Zwang und Druck ist.
+Ich lade Sie herzlich ein, meine Philosophie des respektvollen und feinfühligen Umgangs mit Pferden persönlich kennenzulernen. Kontaktieren Sie mich gerne, um mehr über meine Angebote zu erfahren.
 
 {% include gallery %}
 
