@@ -15,7 +15,7 @@ header:
 
 {% include image_beside_text.html image_path="../assets/Round Pen.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Round Pen" description="Nutzen Sie den Round Pen nicht nur zum longieren, sondern auch für die Freiarbeit mit Ihrem Pferd." %}
 
-{% include image_beside_text.html image_path="../assets/house.png" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Einrittstelle in die Tauber" description="Von unserer Anlage haben sie direkten Zugang zur Tauber, wo sie mit ihrem Pferd hineinreiten und das Wasser genießen können." %}
+{% include image_beside_text.html image_path="../assets/Tauber.jpg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Einrittstelle in die Tauber" description="Von unserer Anlage haben Sie direkten Zugang zur Tauber, wo Sie mit ihrem Pferd hineinreiten und das Wasser genießen können." %}
 
 {% include image_beside_text.html image_path="../assets/Weiden.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Weiden" description="Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläufigen, gepflegten Weiden. Der alte Baumbestand sorgt für ausreichend Schatten. Täglich wird frisches Wasser auf die Weiden gebracht." %}
 
