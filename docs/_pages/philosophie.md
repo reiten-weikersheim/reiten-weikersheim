@@ -12,7 +12,7 @@ gallery:
     alt: "Pferd"
   - image_path: ../assets/Elektra B.jpg
     alt: "Pferd"
-  - image_path: ../assets/Jubeo 07040 A.jpg
+  - image_path: ../assets/Jubeo (2).jpg
     alt: "Pferd"
 ---
 
