@@ -17,7 +17,7 @@ header:
 
 {% include image_beside_text.html image_path="../assets/house.png" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Einrittstelle in die Tauber" description="Von unserer Anlage haben sie direkten Zugang zur Tauber, wo sie mit ihrem Pferd hineinreiten und das Wasser genießen können." %}
 
-{% include image_beside_text.html image_path="../assets/house.png" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Weiden" description="Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläufigen, gepflegten Weiden. Der alte Baumbestand sorgt für ausreichend Schatten. Täglich wird frisches Wasser auf die Weiden gebracht." %}
+{% include image_beside_text.html image_path="../assets/Weiden.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Weiden" description="Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläufigen, gepflegten Weiden. Der alte Baumbestand sorgt für ausreichend Schatten. Täglich wird frisches Wasser auf die Weiden gebracht." %}
 
 {% include image_beside_text.html image_path="../assets/house.png" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Boxenstall" description="Der Stall bietet große freundliche Boxen mit Außenfenster oder mit offenem Blick auf die Stallgasse. Der Boxenstall hat einen direkten Zugang zur Reithalle. Die Boxen sind mit Späne eingestreut, sodass diese auch für Allergiker gut geeignet sind. Alle unsere Pferde stehen ganztägig in Gruppenhaltung auf den Paddocks/Weiden. Ihr Pferd kann wahlweise nachts in der Box oder 24 Stunden, 7 Tage die Woche im Offenstall stehen." %}
 
