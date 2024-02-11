@@ -13,7 +13,7 @@ header:
 
 {% include image_beside_text.html image_path="../assets/Außenplatz.jpeg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Außenreitplatz" description="Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20 x 40 Meter. Der Platz ist mit einer sichern Holzbande umzäunt." %}
 
-{% include image_beside_text.html image_path="../assets/house.png" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Round Pen" description="Nutzen Sie den Round Pen nicht nur zum longieren, sondern auch für die Freiarbeit mit Ihrem Pferd." %}
+{% include image_beside_text.html image_path="../assets/Round Pen.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="400" image_height="300" title="Round Pen" description="Nutzen Sie den Round Pen nicht nur zum longieren, sondern auch für die Freiarbeit mit Ihrem Pferd." %}
 
 {% include image_beside_text.html image_path="../assets/house.png" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Einrittstelle in die Tauber" description="Von unserer Anlage haben sie direkten Zugang zur Tauber, wo sie mit ihrem Pferd hineinreiten und das Wasser genießen können." %}
 
