@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: ../assets/banner.png
 gallery:
-  - image_path: ../assets/horse.png
+  - image_path: ../assets/Ella 6388B.jpg
     alt: "Pferd"
   - image_path: ../assets/horse.png
     alt: "Pferd"
