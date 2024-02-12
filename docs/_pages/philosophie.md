@@ -10,9 +10,9 @@ header:
 gallery:
   - image_path: ../assets/Ella 6388B.jpg
     alt: "Pferd"
-  - image_path: ../assets/Elektra B.jpg
+  - image_path: ../assets/Esperanza.JPG
     alt: "Pferd"
-  - image_path: ../assets/Jubeo (2).jpg
+  - image_path: ../assets/Jubeo1.JPG
     alt: "Pferd"
 ---
 
