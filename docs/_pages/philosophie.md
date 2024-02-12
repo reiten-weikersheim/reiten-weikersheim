@@ -6,7 +6,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../assets/banner wiese.jpeg
+  overlay_image: ../assets/banner1.jpeg
 gallery:
   - image_path: ../assets/Ella 6388B.jpg
     alt: "Pferd"
