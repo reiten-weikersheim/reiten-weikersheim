@@ -14,7 +14,11 @@ Schauen Sie sich gerne auf unserer Webseite um, um mehr über unsere Angebote un
 :heavy_exclamation_mark:
 
 :exclamation:
-❗
+|❗ Info  
+Wir haben Plätze frei 	`rgb(R,G,B)`
+|---------|
+
+<code style="color : blue">text</code>
 
 
 > [!IMPORTANT]
