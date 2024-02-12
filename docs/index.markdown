@@ -11,19 +11,12 @@ header:
 Herzlich Willkommen auf unserer Webseite! Auf unserer Anlage biete ich eine Vielzahl an Dienstleistungen für Pferd und Reiter an. Ob Pferdepension, Beritt oder Reitunterricht – bei uns finden Sie alles, was Sie und Ihr Pferd benötigen, um sich wohlzufühlen und gemeinsam zu wachsen.  
 Schauen Sie sich gerne auf unserer Webseite um, um mehr über unsere Angebote und Leistungen zu erfahren. Wir freuen uns darauf, Sie und Ihr Pferd bald persönlich bei uns begrüßen zu dürfen!
 
-
->❗Aktuell haben wir zwei Pensionsplätze frei (Offenstallplatz oder Box). Melden Sie sich gerne bei Interesse und machen Sie sich ein Bild von unserem Stall! 
->
-
-
-❗<code style="color : red"> Text hier einfügen </code>
+❗<code style="color : red"> Akteull haben wir zwei Pensionsplätze frei. Melden Sie sich gerne bei Interesse und machen Sie sich ein Bild von unserem Stall! </code>
 
 
 
-
-> [!IMPORTANT]
-> Wir sind auf der Suche nach Unterstützung! 
-> Pferdepfleger, Landwirtschaftliche Helfer, Helfer gesucht (m/w/d). Melden Sie sich bei Interesse mit einer kurzen Nachricht oder per Telefon. 
+> [!NOTE]
+> Test 
 
 
 
