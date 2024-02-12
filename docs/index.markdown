@@ -16,7 +16,7 @@ Schauen Sie sich gerne auf unserer Webseite um, um mehr über unsere Angebote un
 >
 
 
-<code style="color : red"> Text hier einfügen </code>
+❗<code style="color : red"> Text hier einfügen </code>
 
 
 
