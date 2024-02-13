@@ -13,13 +13,10 @@ Schauen Sie sich gerne auf unserer Webseite um, um mehr über unsere Angebote un
 
 ❗<code style="color : red"> Aktuell haben wir zwei Pensionsplätze (Offenstall oder Box) frei. Melden Sie sich gerne bei Interesse und machen Sie sich ein Bild von unserem Stall! </code>
 
-
+❗<code style="color : red"> Wir sind auf der Suche nach Unterstützung! Pferdepfleger, Landwirtschaftlichen Helfer, Hilfe imm Pferdestall gesucht (m/w/d). Schreiben Sie bei Interesse eine kurze Nachricht oder melden Sie sich telefonisch. Wir freuen uns auf Sie!  </code>
 
 > [!NOTE]  
 > Test 
 
-{{ "{% highlight html linenos "}}%}
-<div>this is some preformatted code</div>
-{{ "{% endhighlight "}}%}
 
 
