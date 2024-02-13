@@ -15,9 +15,11 @@ Schauen Sie sich gerne auf unserer Webseite um, um mehr über unsere Angebote un
 
 
 
-> [!NOTE]
+> [!NOTE]  
 > Test 
 
-![important] 
+{{ "{% highlight html linenos "}}%}
+<div>this is some preformatted code</div>
+{{ "{% endhighlight "}}%}
 
 
