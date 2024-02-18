@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.1"
   overlay_image: ../assets/bannerwide.jpeg
 gallery:
-  - image_path: ../assets/ella.jpg
+  - image_path: ../assets/philosophie/ella.jpg
     alt: "ella"
-  - image_path: ../assets/esperanza.JPG
+  - image_path: ../assets/philosophie/esperanza.JPG
     alt: "esperanza"
   - image_path: ../assets/jubeo32.JPG
     alt: "jubeo"
