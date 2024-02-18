@@ -5,7 +5,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../assets/bannerwide.png
+  overlay_image: ../assets/bannerwide.jpeg
 ---
 
 Herzlich Willkommen auf unserer Webseite! Auf unserer Anlage biete ich eine Vielzahl an Dienstleistungen für Pferd und Reiter an. Ob Pferdepension, Beritt oder Reitunterricht – bei uns finden Sie alles, was Sie und Ihr Pferd benötigen, um sich wohlzufühlen und gemeinsam zu wachsen.  
