@@ -1,10 +1,10 @@
 ---
-title: "Kontakt"
+title: ""
 layout: single
 permalink: /kontakt/
 sidebar:
   - title: "Adresse"
-    text: "Reit- und Pensionsstall Wolf  Taubermühle 1  97990 Weikersheim"
+    text: "Reit- und Pensionsstall Wolf <br> Taubermühle 1 <br> 97990 Weikersheim"
 ---
 
 <a id="77bab012d138030bea32485cfd351291" href="https://www.gratis-kontaktformular.de/r17101-vergleich" target="_blank">https://www.gratis-kontaktformular.de/</a><script src="https://www.gratis-kontaktformular.de/formular2.php?i=77bab012d138030bea32485cfd351291" type="text/javascript"></script>
