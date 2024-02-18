@@ -9,5 +9,7 @@ main:
     url: /reitunterricht_beritt/
   - title: "Ferienwohnung"
     url: /ferienwohnung/
+  - title: "Galerie"
+    url: /galerie/
   - title: "Kontakt"
     url: /kontakt/
