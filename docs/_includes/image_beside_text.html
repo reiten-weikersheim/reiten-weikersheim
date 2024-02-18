@@ -1,4 +1,4 @@
-<div style="clear: both;">
+<div>
   <div>
     <h2>{{ include.title }}</h2>
     {{ include.description | markdownify }}
@@ -6,4 +6,5 @@
   <div style="{{ include.image_style }}">
     <img src="{{ include.image_path }}" width="{{ include.image_width }}" height="{{ include.image_height }}" alt="">
   </div>
+  <div style="clear:both;" />
 </div>
