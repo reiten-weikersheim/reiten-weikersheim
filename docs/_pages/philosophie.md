@@ -8,12 +8,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: ../assets/banner.png
 gallery:
-  - image_path: ../assets/Ella 6388B.jpg
-    alt: "Pferd"
+  - image_path: ../assets/Ella.jpg
+    alt: "ella"
   - image_path: ../assets/Esperanza.JPG
-    alt: "Pferd"
-  - image_path: ../assets/Jubeo1.JPG
-    alt: "Pferd"
+    alt: "esperanza"
+  - image_path: ../assets/Jubeo.JPG
+    alt: "jubeo"
 ---
 
 Seit über 25 Jahren bin ich als Bereiterin und Reitlehrerin tätig. Dabei verfolge ich eine klare Philosophie, die auf den Prinzipien der klassisch-barocken Reitweise basiert.  
