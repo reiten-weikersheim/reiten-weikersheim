@@ -8,11 +8,11 @@ header:
   overlay_filter: "0.1"
   overlay_image: ../assets/bannerwide.jpeg
 gallery:
-  - image_path: ../assets/image43.jpeg
+  - image_path: ../assets/gallery/image43.jpeg
     alt: "alt text"
-  - image_path: ../assets/image43.jpeg
+  - image_path: ../assets/gallery/image43.jpeg
     alt: "alt text"
-  - image_path: ../assets/image43.jpeg
+  - image_path: ../assets/gallery/image43.jpeg
     alt: "alt text"
 ---
 
