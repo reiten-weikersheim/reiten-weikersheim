@@ -5,14 +5,14 @@ layout: splash
 classes: wide
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: ../assets/banner.png
+  overlay_filter: "0.1"
+  overlay_image: ../assets/bannerwide.jpeg
 gallery:
-  - image_path: ../assets/Ella.jpg
+  - image_path: ../assets/ella.jpg
     alt: "ella"
-  - image_path: ../assets/Esperanza.JPG
+  - image_path: ../assets/esperanza.JPG
     alt: "esperanza"
-  - image_path: ../assets/Jubeo.JPG
+  - image_path: ../assets/jubeo.JPG
     alt: "jubeo"
 ---
 
