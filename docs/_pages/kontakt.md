@@ -5,7 +5,7 @@ permalink: /kontakt/
 sidebar:
   - title: ""
     image: /assets/banner.jpeg
-  - title: "Adresse"
+  - title: "Impressum"
     text: "Reit- und Pensionsstall Wolf <br> Taubermühle 1 <br> 97990 Weikersheim"
 ---
 
