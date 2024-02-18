@@ -1,5 +1,5 @@
 ---
-title: "Reit- und Pensionsstall Wolf"
+title: "Reitunterricht & Beritt"
 permalink: /reitunterricht_beritt/
 layout: splash
 classes: wide
