@@ -9,15 +9,15 @@ header:
   overlay_image: ../assets/bannerwide.jpeg
 ---
 
-{% include image_beside_text.html image_path="../assets/halle.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="auto" image_height="600" title="Halle" description="Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten." %}
+{% include image_beside_text.html image_path="../assets/halle.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="500" image_height="300" title="Halle" description="Die lichtdurchflutete Reithalle mit den Maßen 20 x 40 Meter verfügt über einen elastischen Reitboden. Unsere moderne Beregnungsanlage sorgt für staubfreies Reiten." %}
 
-{% include image_beside_text.html image_path="../assets/aussenplatz.jpeg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="600" image_height="300" title="Außenreitplatz" description="Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20 x 40 Meter. Der Platz ist mit einer sichern Holzbande umzäunt." %}
+{% include image_beside_text.html image_path="../assets/aussenplatz.jpeg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="500" image_height="200" title="Außenreitplatz" description="Nutzen Sie bei schönem Wetter unseren Außenreitplatz mit den Maßen 20 x 40 Meter. Der Platz ist mit einer sichern Holzbande umzäunt." %}
 
-{% include image_beside_text.html image_path="../assets/roundpen.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="600" image_height="300" title="Round Pen" description="Der Round Pen bietet sich nicht nur zum longieren, sondern auch zur Freiarbeit an." %}
+{% include image_beside_text.html image_path="../assets/roundpen.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="500" image_height="200" title="Round Pen" description="Der Round Pen bietet sich nicht nur zum longieren, sondern auch zur Freiarbeit an." %}
 
-{% include image_beside_text.html image_path="../assets/tauber.jpg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="450" image_height="300" title="Einrittstelle in die Tauber" description="Von unserer Anlage haben Sie direkten Zugang zur Tauber, wo Sie mit ihrem Pferd hineinreiten und das Wasser genießen können." %}
+{% include image_beside_text.html image_path="../assets/tauber.jpg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="450" image_height="250" title="Einrittstelle in die Tauber" description="Von unserer Anlage haben Sie direkten Zugang zur Tauber, wo Sie mit ihrem Pferd hineinreiten und das Wasser genießen können." %}
 
-{% include image_beside_text.html image_path="../assets/weiden.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="450" image_height="300" title="Weiden" description="Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläufigen, gepflegten Weiden. Der alte Baumbestand sorgt für ausreichend Schatten. Täglich wird frisches Wasser auf die Weiden gebracht." %}
+{% include image_beside_text.html image_path="../assets/weiden.jpeg" image_style="float: right; padding: 0px 0px 0px 25px" image_width="450" image_height="250" title="Weiden" description="Unsere Pferde stehen in Herdenhaltung im Sommer ganztägig auf unseren weitläufigen, gepflegten Weiden. Der alte Baumbestand sorgt für ausreichend Schatten. Täglich wird frisches Wasser auf die Weiden gebracht." %}
 
 {% include image_beside_text.html image_path="../assets/aussenansicht.jpeg" image_style="float: left; padding: 0px 25px 0px 0px" image_width="400" image_height="300" title="Boxenstall" description="Der Stall bietet große freundliche Boxen mit Außenfenster oder mit offenem Blick auf die Stallgasse. Der Boxenstall hat einen direkten Zugang zur Reithalle. Die Boxen sind mit Späne eingestreut, sodass diese auch für Allergiker gut geeignet sind. Alle unsere Pferde stehen ganztägig in Gruppenhaltung auf den Paddocks/Weiden. Ihr Pferd kann wahlweise nachts in der Box oder 24 Stunden, 7 Tage die Woche im Offenstall stehen." %}
 
