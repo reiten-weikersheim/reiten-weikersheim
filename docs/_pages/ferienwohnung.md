@@ -1,5 +1,6 @@
 ---
 title: "Reit- und Pensionsstall Wolf"
+subtitle: "Ferienwohnungen"
 permalink: /ferienwohnung/
 layout: splash
 classes: wide
