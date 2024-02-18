@@ -18,12 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Home
+title: Reit- und Pensionsstall Wolf
 email: reiten-weikersheim@web.de
 description:
   reiten, reiterhof weikersheim, wolf, stall, pferd, pferdepension, reitunterricht, weikersheim, offenstall
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://reiten-weikersheim.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
+footer:
+  links:
+    - label: "Impressum"
+      url: https://reiten-weikersheim.github.io/impressum/
 
 # Build settings
 # theme: minima
