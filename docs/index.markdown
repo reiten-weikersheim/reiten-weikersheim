@@ -5,18 +5,12 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ../assets/banner.png
+  overlay_image: ../assets/bannerwide.png
 ---
 
 Herzlich Willkommen auf unserer Webseite! Auf unserer Anlage biete ich eine Vielzahl an Dienstleistungen für Pferd und Reiter an. Ob Pferdepension, Beritt oder Reitunterricht – bei uns finden Sie alles, was Sie und Ihr Pferd benötigen, um sich wohlzufühlen und gemeinsam zu wachsen.  
 Schauen Sie sich gerne auf unserer Webseite um, um mehr über unsere Angebote und Leistungen zu erfahren. Wir freuen uns darauf, Sie und Ihr Pferd bald persönlich bei uns begrüßen zu dürfen!
 
-❗<code style="color : red"> Aktuell haben wir zwei Pensionsplätze (Offenstall oder Box) frei. Melden Sie sich gerne bei Interesse und machen Sie sich ein Bild von unserem Stall! </code>
+<span style="color:blue">**Aktuell haben wir zwei Pensionsplätze (Offenstall oder Box) frei.** Melden Sie sich gerne bei Interesse und machen Sie sich ein Bild von unserem Stall!</span>
 
-❗<code style="color : red"> Wir sind auf der Suche nach Unterstützung! Pferdepfleger, Landwirtschaftlichen Helfer, Hilfe im Pferdestall gesucht (m/w/d). Schreiben Sie bei Interesse eine kurze Nachricht oder melden Sie sich telefonisch. Wir freuen uns auf Sie!  </code>
-
-> [!NOTE]  
-> Test 
-
-
-
+<span style="color:blue">**Wir sind auf der Suche nach Unterstützung!** Pferdepfleger, Landwirtschaftlichen Helfer, Hilfe im Pferdestall gesucht (m/w/d). Schreiben Sie bei Interesse eine kurze Nachricht oder melden Sie sich telefonisch. Wir freuen uns auf Sie!</span>
