@@ -10,7 +10,7 @@ header:
 gallery:
   - image_path: ../assets/philosophie/ella.jpg
     alt: "ella"
-  - image_path: ../assets/philosophie/esperanza.JPG
+  - image_path: ../assets/philosophie/Esperanza.JPG
     alt: "esperanza"
   - image_path: ../assets/jubeo32.JPG
     alt: "jubeo"
