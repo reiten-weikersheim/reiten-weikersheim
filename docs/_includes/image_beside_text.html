@@ -1,10 +1,9 @@
-<div>
-  <div>
+<div style="clear:both;">
+  <div style="max-width:600px; word-wrap:break-word;">
     <h2>{{ include.title }}</h2>
     {{ include.description | markdownify }}
   </div>
   <div style="{{ include.image_style }}">
     <img src="{{ include.image_path }}" width="{{ include.image_width }}" height="{{ include.image_height }}" alt="">
   </div>
-  <div style="clear:both;" />
 </div>
