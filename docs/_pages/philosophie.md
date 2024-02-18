@@ -1,5 +1,5 @@
 ---
-title: "Reit- und Pensionsstall Wolf"
+title: "Philosophie"
 permalink: /philosophie/
 layout: splash
 classes: wide
