@@ -8,11 +8,11 @@ header:
   overlay_filter: "0.1"
   overlay_image: ../assets/bannerwide.jpeg
 gallery:
-  - image_path: ../assets/philosophie/Ella 6388B.jpg
+  - image_path: ../assets/philosophie/ella32.jpg
     alt: "ella"
-  - image_path: ../assets/philosophie/Esperanza.JPG
+  - image_path: ../assets/philosophie/esperanza32.JPG
     alt: "esperanza"
-  - image_path: ../assets/philosophie/Jubeo.JPG
+  - image_path: ../assets/philosophie/jubeo32.JPG
     alt: "jubeo"
 ---
 
