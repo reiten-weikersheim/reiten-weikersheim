@@ -3,6 +3,8 @@ title: ""
 layout: single
 permalink: /kontakt/
 sidebar:
+  - title: ""
+    image: /assets/bannerwide.jpeg
   - title: "Adresse"
     text: "Reit- und Pensionsstall Wolf <br> Taubermühle 1 <br> 97990 Weikersheim"
 ---
