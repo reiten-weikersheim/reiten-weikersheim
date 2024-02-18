@@ -12,7 +12,7 @@ gallery:
     alt: "ella"
   - image_path: ../assets/philosophie/Esperanza.JPG
     alt: "esperanza"
-  - image_path: ../assets/philosophie/jubeo32.JPG
+  - image_path: ../assets/philosophie/Jubeo.JPG
     alt: "jubeo"
 ---
 
