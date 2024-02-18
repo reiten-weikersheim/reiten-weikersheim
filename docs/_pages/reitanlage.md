@@ -1,5 +1,5 @@
 ---
-title: "Reit- und Pensionsstall Wolf"
+title: "Reitanlage"
 permalink: /reitanlage/
 layout: splash
 classes: wide
