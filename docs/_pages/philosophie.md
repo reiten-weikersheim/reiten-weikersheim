@@ -12,7 +12,7 @@ gallery:
     alt: "ella"
   - image_path: ../assets/esperanza.JPG
     alt: "esperanza"
-  - image_path: ../assets/jubeo.JPG
+  - image_path: ../assets/jubeo32.JPG
     alt: "jubeo"
 ---
 
