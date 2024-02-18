@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-url: /impressum/
+permalink: /impressum/
 layout: single
 ---
 
