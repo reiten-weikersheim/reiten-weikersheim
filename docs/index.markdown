@@ -13,4 +13,4 @@ Schauen Sie sich gerne auf unserer Webseite um, um mehr über unsere Angebote un
 
 <span style="color:green">**Aktuell haben wir zwei Pensionsplätze (Offenstall oder Box) frei.** Melden Sie sich gerne bei Interesse und machen Sie sich ein Bild von unserem Stall!</span>
 
-<span style="color:green">**Wir sind auf der Suche nach Unterstützung!** Pferdepfleger, Landwirtschaftlichen Helfer, Hilfe im Pferdestall gesucht (m/w/d). Schreiben Sie bei Interesse eine kurze Nachricht oder melden Sie sich telefonisch. Wir freuen uns auf Sie!</span>
+<span style="color:green">**Wir sind auf der Suche nach Unterstützung!** Pferdepfleger, Landwirtschaftliche Helfer, Hilfe im Pferdestall gesucht (m/w/d). Schreiben Sie bei Interesse eine kurze Nachricht oder melden Sie sich telefonisch. Wir freuen uns auf Sie!</span>
